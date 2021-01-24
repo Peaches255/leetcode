@@ -1,5 +1,3 @@
-# leetcode
-
 ## Objective
 Do all of the Leetcode problems
 
