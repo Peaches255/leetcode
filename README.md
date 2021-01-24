@@ -1,2 +1,5 @@
-# leetcode
-## Woo Wooooo!
+## Objective
+Do all of the Leetcode problems
+
+## Authors
+- Peaches
